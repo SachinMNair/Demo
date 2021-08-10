@@ -2,7 +2,7 @@ package com.sachin.HackerRank;
 
 import java.util.Arrays;
 import java.util.Scanner;
-
+//Commit
 public class Pair {
 
 	public static void main(String[] args) {
